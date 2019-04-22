@@ -1,0 +1,7 @@
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\bin\Debug\DateTime.exe
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\bin\Debug\DateTime.pdb
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\obj\Debug\DateTime.exe
+C:\Users\conuo\Desktop\csharp\Second\DataTypes\DateTime\obj\Debug\DateTime.pdb

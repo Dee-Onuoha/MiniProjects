@@ -1,0 +1,7 @@
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\bin\Debug\DayToChristmas.exe.config
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\bin\Debug\DayToChristmas.exe
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\bin\Debug\DayToChristmas.pdb
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\obj\Debug\DayToChristmas.csproj.CoreCompileInputs.cache
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\obj\Debug\DayToChristmas.exe
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\obj\Debug\DayToChristmas.pdb
+C:\Users\conuo\Desktop\csharp\MiniProject\DayToChristmas\obj\Debug\DayToChristmas.csprojAssemblyReference.cache

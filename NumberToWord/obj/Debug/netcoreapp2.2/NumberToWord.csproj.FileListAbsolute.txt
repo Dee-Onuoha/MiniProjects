@@ -1,0 +1,11 @@
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\bin\Debug\netcoreapp2.2\NumberToWord.deps.json
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\bin\Debug\netcoreapp2.2\NumberToWord.runtimeconfig.json
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\bin\Debug\netcoreapp2.2\NumberToWord.runtimeconfig.dev.json
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\bin\Debug\netcoreapp2.2\NumberToWord.dll
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\bin\Debug\netcoreapp2.2\NumberToWord.pdb
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\obj\Debug\netcoreapp2.2\NumberToWord.csprojAssemblyReference.cache
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\obj\Debug\netcoreapp2.2\NumberToWord.csproj.CoreCompileInputs.cache
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\obj\Debug\netcoreapp2.2\NumberToWord.AssemblyInfoInputs.cache
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\obj\Debug\netcoreapp2.2\NumberToWord.AssemblyInfo.cs
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\obj\Debug\netcoreapp2.2\NumberToWord.dll
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\NumberToWord\obj\Debug\netcoreapp2.2\NumberToWord.pdb

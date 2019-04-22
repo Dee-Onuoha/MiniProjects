@@ -1,0 +1,11 @@
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\bin\Debug\netcoreapp2.2\StatesZones.deps.json
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\bin\Debug\netcoreapp2.2\StatesZones.runtimeconfig.json
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\bin\Debug\netcoreapp2.2\StatesZones.runtimeconfig.dev.json
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\bin\Debug\netcoreapp2.2\StatesZones.dll
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\bin\Debug\netcoreapp2.2\StatesZones.pdb
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\obj\Debug\netcoreapp2.2\StatesZones.csprojAssemblyReference.cache
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\obj\Debug\netcoreapp2.2\StatesZones.csproj.CoreCompileInputs.cache
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\obj\Debug\netcoreapp2.2\StatesZones.AssemblyInfoInputs.cache
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\obj\Debug\netcoreapp2.2\StatesZones.AssemblyInfo.cs
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\obj\Debug\netcoreapp2.2\StatesZones.dll
+C:\Users\DEE\Desktop\CYBERACADEMY\MiniProject\StatesZones\StatesZones\obj\Debug\netcoreapp2.2\StatesZones.pdb
