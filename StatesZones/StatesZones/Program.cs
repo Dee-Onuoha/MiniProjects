@@ -50,112 +50,36 @@ namespace StatesZones
 15. Mubi South        16. Numan        17. Shelleng        18. Song        19. Toungo        20. Yola North        21. Yola South",
 
 @"1. Abak        2. Eastern Obolo        3. Eket        4. Esit Eket        5. Essien Udim        6. Etim Ekpo        7. Etinan 
+
 8. Ibeno        9. Ibesikpo Asutan        10. Ibiono Ibom        11. Ika        12. Ikono        13. Ikot Abasi        14. Ikot Ekpene        15. Ini 
+
 16. Itu        17. Mbo        18. Mkpat Enin        19. Nsit Atai        20. Nsit Ibom        21. Nsit Ubium        22. Obot Akara        23. Okobo 
+
 24. Onna        25. Oron        26. Oruk Anam        27. Udung Uko        28. Ukanafun        29. Uruan        30.Urue-Offong/Oruko        31. Uyo",
 
-@"Aguata 
-Anambra East 
-Anambra West 
-Anaocha 
-Awka North 
-Awka South 
-Ayamelum 
-Dunukofia 
-Ekwusigo 
-Idemili North 
-Idemili south 
-Ihiala 
-Njikoka 
-Nnewi North 
-Nnewi South 
-Ogbaru 
-Onitsha North 
-Onitsha South 
-Orumba North 
-Orumba South 
-Oyi ",
+@"Aguata        Anambra East        Anambra West        Anaocha         Awka North          Awka South          Ayamelum            Dunukofia           Ekwusigo
 
-@"Alkaleri 
-Bauchi 
-Bogoro 
-Damban 
-Darazo 
-Dass 
-Ganjuwa 
-Giade 
-Itas/Gadau 
-Jama'are 
-Katagum 
-Kirfi 
-Misau 
-Ningi 
-Shira 
-Tafawa-Balewa 
-Toro 
-Warji 
-Zaki ",
+Idemili North          Idemili south           Ihiala           Njikoka          Nnewi North            Nnewi South             Ogbaru            Onitsha North 
 
-@"Brass 
-Ekeremor 
-Kolokuma/Opokuma 
-Nembe 
-Ogbia 
-Sagbama 
-Southern Jaw 
-Yenegoa",
+Onitsha South               Orumba North            Orumba South            Oyi ",
 
-@"Ado 
-Agatu 
-Apa 
-Buruku 
-Gboko 
-Guma 
-Gwer East 
-Gwer West 
-Katsina-Ala 
-Konshisha 
-Kwande 
-Logo 
-Makurdi 
-Obi 
-Ogbadibo 
-Oju 
-Okpokwu 
-Ohimini 
-Oturkpo 
-Tarka 
-Ukum 
-Ushongo 
-Vandeikya ",
+@"Alkaleri          Bauchi          Bogoro          Damban            Darazo            Dass            Ganjuwa            Giade            Itas/Gadau 
 
-@"Abadam 
-Askira/Uba 
-Bama 
-Bayo 
-Biu 
-Chibok 
-Damboa 
-Dikwa 
-Gubio 
-Guzamala 
-Gwoza 
-Hawul 
-Jere 
-Kaga 
-Kala/Balge 
-Konduga 
-Kukawa 
-Kwaya Kusar 
-Mafa 
-Magumeri 
-Maiduguri 
-Marte 
-Mobbar 
-Monguno 
-Ngala 
-Nganzai 
-Shani",
+Jama'are            Katagum         Kirfi           Misau           Ningi           Shira           Tafawa-Balewa           Toro            Warji         Zaki ",
+
+@"Brass         Ekeremor            Kolokuma/Opokuma            Nembe           Ogbia           Sagbama         Southern Jaw            Yenegoa",
+
+@"Ado           Agatu           Apa         Buruku          Gboko           Guma            Gwer East           Gwer West           Katsina-Ala 
+
+Konshisha           Kwande          Logo            Makurdi         Obi         Ogbadibo            Oju         Okpokwu         Ohimini 
+
+Oturkpo         Tarka           Ukum            Ushongo             Vandeikya ",
+
+@"Abadam            Askira/Uba          Bama            Bayo            Biu         Chibok          Damboa          Dikwa           Gubio           Guzamala 
+
+Gwoza           Hawul           Jere            Kaga            Kala/Balge          Konduga         Kukawa          Kwaya Kusar         Mafa            Magumeri
+
+Maiduguri           Marte           Mobbar          Monguno         Ngala           Nganzai         Shani",
 
 @"Akpabuyo 
 Odukpani 
